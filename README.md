@@ -13,16 +13,16 @@ The Face Mask Detector is an AI-powered web application that helps detect whethe
 
 ## Features
 
-- Real-Time Detection: The model uses a webcam to detect if a person is wearing a mask.
-- Accuracy: Trained with a machine learning model to distinguish between "mask" and "no-mask" conditions.
-- User-Friendly Interface: The web app is built with a responsive layout using HTML, CSS, and Bootstrap for a simple, clear interface.
-- Visual and Audio Alerts: Alerts are triggered if a mask is not detected, encouraging proper mask usage.
+- **Real-Time Detection:** The model uses a webcam to detect if a person is wearing a mask.
+- **Accuracy:** Trained with a machine learning model to distinguish between "mask" and "no-mask" conditions.
+- **User-Friendly Interface:** The web app is built with a responsive layout using HTML, CSS, and Bootstrap for a simple, clear interface.
+- **Visual and Audio Alerts:** Alerts are triggered if a mask is not detected, encouraging proper mask usage.
 
 ## File Structure
-- index.html: Main web page for the face mask detector interface(index).
-- style.css: Contains styling for the user interface(style).
-- model.json: TensorFlow.js model configuration file(model).
-- metadata.json: Metadata for the model, including labels for mask detection(metadata).
+- **index.html:** Main web page for the face mask detector interface(index).
+- **style.css:** Contains styling for the user interface(style).
+- **model.json:** TensorFlow.js model configuration file(model).
+- **metadata.json:** Metadata for the model, including labels for mask detection(metadata).
 
 ## How it works
 
