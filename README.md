@@ -24,7 +24,7 @@ The Face Mask Detector is an AI-powered web application that helps detect whethe
 - **model.json:** TensorFlow.js model configuration file(model).
 - **metadata.json:** Metadata for the model, including labels for mask detection(metadata).
 
-## How it works
+## How It Works
 
 1. The user clicks "Start" to activate the webcam.
 2. The webcam captures live video, and the model runs predictions to detect if a mask is present.
